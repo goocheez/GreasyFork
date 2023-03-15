@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         上移知乎文章发表日期到标题
-// @namespace    https://github.com/goocheez/zhihu_timestamp_to_the_top
+// @namespace    https://github.com/goocheez/GreasyFork/move_zhihu_timestamp/zhihu_timestamp_to_the_top.user.js
 // @version      0.1
 // @description  将知乎专栏的文章发表日期移动到标题下方
 // @author       Goocheez
